@@ -1,0 +1,26 @@
+.contentStyle {
+  padding: 80px 20px 110px 20px;
+}
+.stages-frame {
+  background: rgb(161, 161, 161);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(161, 161, 161, 0.342) 100%
+  );
+  padding: 0.82rem;
+  border-radius: 0.82rem;
+  border: 1px solid #44444413;
+  font-size: 0.82rem;
+}
+.stage-frame-adept {
+  color: #5ce95c;
+  padding: 0.5rem;
+  background: rgb(255, 255, 255);
+  background: radial-gradient(circle at left top, #008000 0%, #002c00 100%);
+  border-radius: 0.5rem;
+}
+
+.stage-frame-adept img {
+  max-width: 100%;
+}

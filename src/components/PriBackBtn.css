@@ -1,0 +1,14 @@
+.back-btn {
+  width: 25px;
+  height: 25px;
+}
+.back-btn-header {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background: rgb(211, 211, 211);
+  background: linear-gradient(
+    90deg,
+    rgba(211, 211, 211, 1) 0%,
+    rgba(117, 117, 117, 0) 85%
+  );
+}

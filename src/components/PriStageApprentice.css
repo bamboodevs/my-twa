@@ -1,0 +1,22 @@
+.stage-frame {
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+  margin: 0.5rem 0;
+  font-size: 0.7rem;
+}
+.stage-frame a {
+  text-decoration: none;
+}
+.stage-frame a p:last-child {
+  margin: 0;
+  padding: 0;
+}
+
+.stage-apprentice {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(circle at left bottom, #114242 0%, #008080 100%);
+}
+.stage-apprentice a {
+  color: #5aecec;
+  text-shadow: 0 1px 1px #083535;
+}

@@ -1,0 +1,84 @@
+/* StickyMenu.css */
+.sticky-menu {
+  position: fixed;
+  top: 0;
+  left: -47vw;
+  height: 100vh;
+  width: 45vw;
+  background: rgb(245, 49, 49);
+  background: radial-gradient(
+    circle at top left,
+    rgba(245, 49, 49, 1) 0%,
+    rgba(64, 3, 3, 1) 85%
+  );
+  transition: left 0.6s ease-in;
+  z-index: 100000;
+  border-right: 2px solid #83838346;
+  box-shadow: 0 0 7px 0 #000;
+}
+
+.sticky-menu.open {
+  left: 0;
+}
+
+.menu-button {
+  position: fixed;
+  line-height: 1rem;
+  font-size: 1rem;
+  z-index: 1001;
+  background: none;
+  border: none;
+  left: -0.6rem;
+  bottom: -0.6rem;
+  color: white;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 0 50% 50% 0;
+  transition: opacity 0.6s ease-in;
+}
+.menu-button::after {
+  content: "";
+  width: 200%;
+  height: 200%;
+  position: absolute;
+  z-index: -1;
+  background: rgba(245, 49, 49, 0.13);
+  background: radial-gradient(circle, rgba(245, 49, 49, 0.85) 0%, #271818 85%);
+  left: -2rem;
+  top: -0.8rem;
+  border-radius: 50%;
+  box-shadow: 0 0 7px 0 #434343;
+}
+
+.menu-button.hidden {
+  opacity: 0;
+}
+
+.menu-content {
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-content a {
+  color: white;
+  text-decoration: none;
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 99999;
+}
+
+#main-content.blurred,
+footer.blurred {
+  filter: blur(5px);
+  transition: filter 0.3s ease-in-out;
+}

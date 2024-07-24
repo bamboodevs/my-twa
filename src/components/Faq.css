@@ -1,0 +1,45 @@
+.contentStyle {
+  padding: 80px 20px 110px 20px;
+}
+.faq-frame {
+  background: rgb(161, 161, 161);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(161, 161, 161, 0.342) 100%
+  );
+  padding: 0.82rem;
+  border-radius: 0.82rem;
+  border: 1px solid #44444413;
+  font-size: 0.82rem;
+}
+
+.faq-frame .container {
+  padding: 0 !important;
+}
+.tab-content {
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-top: 0 !important;
+  padding: 1rem;
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+.accordion-body {
+  padding: 1rem;
+  background-color: #fff;
+}
+.accordion-header {
+  outline: 0 !important;
+}
+.accordion-header .accordion-button {
+  outline: 0 !important;
+  background-color: #d3d3d3;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #757575 !important;
+  outline: 0 !important;
+  color: #fff !important;
+}
+.nav-item .nav-link {
+  color: #464646;
+}

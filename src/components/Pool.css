@@ -1,0 +1,83 @@
+.contentStyle {
+  padding: 80px 20px 110px 20px;
+  position: relative;
+}
+.pools-frame {
+  background: rgb(161, 161, 161);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(161, 161, 161, 0.342) 100%
+  );
+  padding: 0.82rem;
+  border-radius: 0.82rem;
+  border: 1px solid #44444413;
+  font-size: 0.82rem;
+}
+.you-invited {
+  padding: 1.5rem;
+  color: #303030;
+  border-radius: 0.5rem;
+  background: rgb(211, 211, 211);
+  background: radial-gradient(
+    circle at left top,
+    rgba(211, 211, 211, 1) 34%,
+    rgba(117, 117, 117, 1) 100%
+  );
+  border: 1px solid #d3d3d31a;
+  box-shadow: 0 0 2px 2px rgba(117, 117, 117, 0.1);
+}
+
+.create-your-pool {
+  padding: 1.5rem;
+  color: #303030;
+  border-radius: 0.5rem;
+  background: rgb(211, 211, 211);
+  background: radial-gradient(
+    circle at left top,
+    rgba(211, 211, 211, 1) 34%,
+    rgba(117, 117, 117, 1) 100%
+  );
+  border: 1px solid #d3d3d31a;
+  box-shadow: 0 0 2px 2px rgba(117, 117, 117, 0.1);
+}
+
+.add-relatives {
+  padding: 1.5rem;
+  color: #303030;
+  border-radius: 0.5rem;
+  background: rgb(211, 211, 211);
+  background: radial-gradient(
+    circle at left top,
+    rgba(211, 211, 211, 1) 34%,
+    rgba(117, 117, 117, 1) 100%
+  );
+  border: 1px solid #d3d3d31a;
+  box-shadow: 0 0 2px 2px rgba(117, 117, 117, 0.1);
+}
+
+.your-active-pool {
+  padding: 1.5rem;
+  background-color: #fff;
+  border-radius: 0.5rem;
+}
+
+.poolOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 13;
+  backdrop-filter: blur(0.5rem);
+}
+
+.coming-soon-text {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000;
+}
