@@ -5,10 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Page Not Found</title>
     <script type="text/javascript">
-      // Redirect to the correct route using JavaScript
+      // Get the pathname
       var pathname = window.location.pathname;
-      window.location.replace("/" + "my-twa" + pathname);
+
+      // Check if pathname does not already start with the correct base path
+      if (!pathname.startsWith("/my-twa")) {
+        // Redirect to the correct base path with the original pathname
+        window.location.replace("/my-twa" + pathname);
+      }
     </script>
   </head>
-  <body></body>
+  <body>
+    <h1>404 - Page Not Found</h1>
+    <p>Redirecting you to the correct page...</p>
+  </body>
 </html>
