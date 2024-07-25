@@ -5,21 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Page Not Found</title>
     <script type="text/javascript">
-      window.onload = function () {
-        var pathname = window.location.pathname;
-        console.log("Current pathname:", pathname);
+      var pathname = window.location.pathname;
+      console.log("Current pathname:", pathname);
 
-        // Create new URL by adding "/my-twa" prefix to the current pathname
-        var newUrl = "/my-twa";
-        console.log("New URL:", newUrl);
+      // Create new URL by adding "/my-twa" prefix to the current pathname
+      var newUrl = "/my-twa";
+      console.log("New URL:", newUrl);
 
-        if (!pathname.startsWith("/my-twa") || pathname.startsWith("/my-twa")) {
-          console.log("Redirecting to:", newUrl);
-          window.location.replace(newUrl);
-        } else {
-          console.log("No need to redirect");
-        }
-      };
+      if (!pathname.startsWith("/my-twa") || pathname.startsWith("/my-twa")) {
+        console.log("Redirecting to:", newUrl);
+        window.location.replace(newUrl);
+      } else {
+        console.log("No need to redirect");
+      }
     </script>
   </head>
   <body>
