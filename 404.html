@@ -5,17 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Page Not Found</title>
     <script type="text/javascript">
-      // Get the pathname
-      var pathname = window.location.pathname;
+      window.onload = function () {
+        var pathname = window.location.pathname;
+        console.log("Current pathname:", pathname);
 
-      // Redirect to the correct route using JavaScript
-      // Assuming your app is hosted under "/my-twa" path
-      var newUrl = "/my-twa" + pathname;
+        var newUrl = "/my-twa" + pathname;
+        console.log("New URL:", newUrl);
 
-      // Check if the pathname is not already prefixed with "/my-twa"
-      if (!pathname.startsWith("/my-twa")) {
-        window.location.replace(newUrl);
-      }
+        if (!pathname.startsWith("/my-twa")) {
+          console.log("Redirecting to:", newUrl);
+          window.location.replace(newUrl);
+        } else {
+          console.log("No need to redirect");
+        }
+      };
     </script>
   </head>
   <body>
