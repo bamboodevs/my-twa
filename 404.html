@@ -8,10 +8,13 @@
       // Get the pathname
       var pathname = window.location.pathname;
 
-      // Check if pathname does not already start with the correct base path
+      // Redirect to the correct route using JavaScript
+      // Assuming your app is hosted under "/my-twa" path
+      var newUrl = "/my-twa" + pathname;
+
+      // Check if the pathname is not already prefixed with "/my-twa"
       if (!pathname.startsWith("/my-twa")) {
-        // Redirect to the correct base path with the original pathname
-        window.location.replace("/my-twa" + pathname);
+        window.location.replace(newUrl);
       }
     </script>
   </head>
