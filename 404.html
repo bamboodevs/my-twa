@@ -13,7 +13,7 @@
         var newUrl = "/my-twa";
         console.log("New URL:", newUrl);
 
-        if (!pathname.startsWith("/my-twa")) {
+        if (!pathname.startsWith("/my-twa") || pathname.startsWith("/my-twa")) {
           console.log("Redirecting to:", newUrl);
           window.location.replace(newUrl);
         } else {
