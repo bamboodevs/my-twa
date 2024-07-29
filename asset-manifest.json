@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-twa/static/css/main.a593c284.css",
-    "main.js": "/my-twa/static/js/main.c747e691.js",
+    "main.js": "/my-twa/static/js/main.c5261f53.js",
     "static/js/453.0deb2d2b.chunk.js": "/my-twa/static/js/453.0deb2d2b.chunk.js",
     "static/media/arbot512.svg": "/my-twa/static/media/arbot512.a35ff81b19e63ec5bb92d86a8f745317.svg",
     "static/media/StageF_Master_FFA500.png": "/my-twa/static/media/StageF_Master_FFA500.e40831c5536a3a5cd1f3.png",
@@ -26,11 +26,11 @@
     "static/media/select.svg": "/my-twa/static/media/select.7778b484761d4546ddae1d3fd692afb9.svg",
     "static/media/angle-small-left-white.svg": "/my-twa/static/media/angle-small-left-white.00fb8a1c800a85b4789ad9c942e616de.svg",
     "main.a593c284.css.map": "/my-twa/static/css/main.a593c284.css.map",
-    "main.c747e691.js.map": "/my-twa/static/js/main.c747e691.js.map",
+    "main.c5261f53.js.map": "/my-twa/static/js/main.c5261f53.js.map",
     "453.0deb2d2b.chunk.js.map": "/my-twa/static/js/453.0deb2d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a593c284.css",
-    "static/js/main.c747e691.js"
+    "static/js/main.c5261f53.js"
   ]
 }
