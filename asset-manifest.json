@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-twa/static/css/main.3e5ecb37.css",
-    "main.js": "/my-twa/static/js/main.f1847891.js",
+    "main.js": "/my-twa/static/js/main.54f03d3c.js",
     "static/js/453.0deb2d2b.chunk.js": "/my-twa/static/js/453.0deb2d2b.chunk.js",
     "static/media/arbit Ai.png": "/my-twa/static/media/arbit Ai.c556d8f297b2ed81d5eb.png",
     "static/media/arbot512.svg": "/my-twa/static/media/arbot512.a35ff81b19e63ec5bb92d86a8f745317.svg",
@@ -26,11 +26,11 @@
     "index.html": "/my-twa/index.html",
     "static/media/angle-small-left-white.svg": "/my-twa/static/media/angle-small-left-white.00fb8a1c800a85b4789ad9c942e616de.svg",
     "main.3e5ecb37.css.map": "/my-twa/static/css/main.3e5ecb37.css.map",
-    "main.f1847891.js.map": "/my-twa/static/js/main.f1847891.js.map",
+    "main.54f03d3c.js.map": "/my-twa/static/js/main.54f03d3c.js.map",
     "453.0deb2d2b.chunk.js.map": "/my-twa/static/js/453.0deb2d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e5ecb37.css",
-    "static/js/main.f1847891.js"
+    "static/js/main.54f03d3c.js"
   ]
 }
