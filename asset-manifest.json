@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-twa/static/css/main.dca11705.css",
-    "main.js": "/my-twa/static/js/main.504aae60.js",
+    "main.js": "/my-twa/static/js/main.d70cdbc6.js",
     "static/js/453.0deb2d2b.chunk.js": "/my-twa/static/js/453.0deb2d2b.chunk.js",
     "static/media/arbit Ai.png": "/my-twa/static/media/arbit Ai.c556d8f297b2ed81d5eb.png",
     "static/media/add_network_banner.png": "/my-twa/static/media/add_network_banner.d93a72fd05aad008b3af.png",
@@ -24,12 +24,13 @@
     "static/media/slick.ttf": "/my-twa/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my-twa/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-twa/index.html",
+    "static/media/usdt.svg": "/my-twa/static/media/usdt.2c1060dbb6747d4a94dcdd709c334871.svg",
     "main.dca11705.css.map": "/my-twa/static/css/main.dca11705.css.map",
-    "main.504aae60.js.map": "/my-twa/static/js/main.504aae60.js.map",
+    "main.d70cdbc6.js.map": "/my-twa/static/js/main.d70cdbc6.js.map",
     "453.0deb2d2b.chunk.js.map": "/my-twa/static/js/453.0deb2d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dca11705.css",
-    "static/js/main.504aae60.js"
+    "static/js/main.d70cdbc6.js"
   ]
 }
