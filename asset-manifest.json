@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/my-twa/static/css/main.cf547307.css",
-    "main.js": "/my-twa/static/js/main.9d506e59.js",
+    "main.js": "/my-twa/static/js/main.475caa00.js",
     "static/js/453.0deb2d2b.chunk.js": "/my-twa/static/js/453.0deb2d2b.chunk.js",
     "static/media/arbit Ai.png": "/my-twa/static/media/arbit Ai.c556d8f297b2ed81d5eb.png",
-    "static/media/add_network_banner.png": "/my-twa/static/media/add_network_banner.d93a72fd05aad008b3af.png",
     "static/media/arbot512.svg": "/my-twa/static/media/arbot512.a35ff81b19e63ec5bb92d86a8f745317.svg",
     "static/media/StageF_Master_FFA500.png": "/my-twa/static/media/StageF_Master_FFA500.e40831c5536a3a5cd1f3.png",
     "static/media/NexGen-Logo_alone.png": "/my-twa/static/media/NexGen-Logo_alone.fe3b0ac2241359c61c9d.png",
@@ -15,6 +14,7 @@
     "static/media/StageFree_Explorer_9333FF.png": "/my-twa/static/media/StageFree_Explorer_9333FF.1a08649d4c53171e81c6.png",
     "static/media/StageD_Adept_008000.png": "/my-twa/static/media/StageD_Adept_008000.3d014caedf0135bff160.png",
     "static/media/StageA_Novice_d3d3d3.png": "/my-twa/static/media/StageA_Novice_d3d3d3.4c6d60f3b2be876445bd.png",
+    "static/media/addded.webp": "/my-twa/static/media/addded.b3b0549918a9ef316b2e.webp",
     "static/media/selling-white.svg": "/my-twa/static/media/selling-white.817e6dcf2307db59b1ba8e9b2bea3774.svg",
     "static/media/xG_logo.svg": "/my-twa/static/media/xG_logo.0743515db45932e4c0a22b5829fc5ae8.svg",
     "static/media/house-user-white.svg": "/my-twa/static/media/house-user-white.5a8492a3cef1cce1b93e38805ee60fc7.svg",
@@ -26,11 +26,11 @@
     "index.html": "/my-twa/index.html",
     "static/media/usdt.svg": "/my-twa/static/media/usdt.2c1060dbb6747d4a94dcdd709c334871.svg",
     "main.cf547307.css.map": "/my-twa/static/css/main.cf547307.css.map",
-    "main.9d506e59.js.map": "/my-twa/static/js/main.9d506e59.js.map",
+    "main.475caa00.js.map": "/my-twa/static/js/main.475caa00.js.map",
     "453.0deb2d2b.chunk.js.map": "/my-twa/static/js/453.0deb2d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf547307.css",
-    "static/js/main.9d506e59.js"
+    "static/js/main.475caa00.js"
   ]
 }
