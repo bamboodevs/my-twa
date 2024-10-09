@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/my-twa/static/css/main.7f312715.css",
-    "main.js": "/my-twa/static/js/main.a1840d20.js",
+    "main.js": "/my-twa/static/js/main.fdbab126.js",
     "static/js/453.0deb2d2b.chunk.js": "/my-twa/static/js/453.0deb2d2b.chunk.js",
     "static/media/arbit Ai.png": "/my-twa/static/media/arbit Ai.c556d8f297b2ed81d5eb.png",
+    "static/media/being_able_to_access_the_genealogy_tab.png": "/my-twa/static/media/being_able_to_access_the_genealogy_tab.863d3601f665dd3deb7b.png",
     "static/media/arbot512.svg": "/my-twa/static/media/arbot512.a35ff81b19e63ec5bb92d86a8f745317.svg",
     "static/media/StageF_Master_FFA500.png": "/my-twa/static/media/StageF_Master_FFA500.e40831c5536a3a5cd1f3.png",
     "static/media/NexGen-Logo_alone.png": "/my-twa/static/media/NexGen-Logo_alone.fe3b0ac2241359c61c9d.png",
@@ -25,11 +26,11 @@
     "index.html": "/my-twa/index.html",
     "static/media/usdt.svg": "/my-twa/static/media/usdt.2c1060dbb6747d4a94dcdd709c334871.svg",
     "main.7f312715.css.map": "/my-twa/static/css/main.7f312715.css.map",
-    "main.a1840d20.js.map": "/my-twa/static/js/main.a1840d20.js.map",
+    "main.fdbab126.js.map": "/my-twa/static/js/main.fdbab126.js.map",
     "453.0deb2d2b.chunk.js.map": "/my-twa/static/js/453.0deb2d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f312715.css",
-    "static/js/main.a1840d20.js"
+    "static/js/main.fdbab126.js"
   ]
 }
