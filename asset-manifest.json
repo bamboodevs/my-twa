@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-twa/static/css/main.16b32b2d.css",
-    "main.js": "/my-twa/static/js/main.e2a5d738.js",
+    "main.js": "/my-twa/static/js/main.a86cbddb.js",
     "static/js/453.0deb2d2b.chunk.js": "/my-twa/static/js/453.0deb2d2b.chunk.js",
     "static/media/arbit Ai.png": "/my-twa/static/media/arbit Ai.c556d8f297b2ed81d5eb.png",
     "static/media/being_able_to_access_the_genealogy_tab.png": "/my-twa/static/media/being_able_to_access_the_genealogy_tab.88fae48fb34d027f284f.png",
@@ -26,11 +26,11 @@
     "index.html": "/my-twa/index.html",
     "static/media/usdt.svg": "/my-twa/static/media/usdt.2c1060dbb6747d4a94dcdd709c334871.svg",
     "main.16b32b2d.css.map": "/my-twa/static/css/main.16b32b2d.css.map",
-    "main.e2a5d738.js.map": "/my-twa/static/js/main.e2a5d738.js.map",
+    "main.a86cbddb.js.map": "/my-twa/static/js/main.a86cbddb.js.map",
     "453.0deb2d2b.chunk.js.map": "/my-twa/static/js/453.0deb2d2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16b32b2d.css",
-    "static/js/main.e2a5d738.js"
+    "static/js/main.a86cbddb.js"
   ]
 }
